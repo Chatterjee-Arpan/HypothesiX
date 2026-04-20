@@ -1,6 +1,9 @@
 # HypothesiX
+Live website has been deployed on Render:
+``https://hypothesix.onrender.com/``
 
 HypothesiX is a polished Streamlit app for merging multiple collaborator viewpoints into one clear project state, surfacing conflicts and gaps, visualizing the idea in Mermaid, and optionally stress-testing the merged idea inside a second-stage Gladiator Arena.
+![Imag2](Images/Img2.png)
 
 ## What the app does
 
@@ -118,3 +121,10 @@ If Mermaid text is malformed, the app still exposes a plain-text export view ins
 Seed collaborator inputs live in `src/demo_data.py`.
 
 Use the `Load Demo Data` button to populate the board with a ready-to-run scenario.
+
+## Screenshots
+![Imag](Images/Img1.png)
+![Imag2](Images/Img2.png)
+![Imag3](Images/Img3.png)
+![Imag4](Images/Img4.png)
+![Imag5](Images/Img5.png)
